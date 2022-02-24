@@ -3,4 +3,4 @@
   <p>In diesem Projekt wollen wir das bekannte Österreichische Brettspiel "Das Kaufmänische Talent" (kurz "DKT") digital nachbauen!</p>
 <br>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vkb-bank.at%2Fdkt-oberoesterreich&psig=AOvVaw1FoqAiHvLgXD9S5bHAcaQ3&ust=1645787701346000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCumIybmPYCFQAAAAAdAAAAABAE">
+<img src="https://www.vkb-bank.at/fileadmin/_processed_/5/0/csm__EK16507-Bearbeitet_a61097ecc4.jpg">
