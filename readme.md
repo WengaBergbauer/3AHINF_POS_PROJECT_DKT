@@ -8,3 +8,13 @@
 
 <p> Unser Projekt werden wir in Unity als 2D Spiel umsetzen. <p>
 <p> Das Spielprinzip von DKT ist wie folgt: Jeder Spieler erhält eine Figur, welche er entsprechend der gewürfelten Augenzahl in der Richtung des Pfeiles bewegt. Kommt die Figur auf ein Grundstück einer Stadt, so kann der Spieler dieses erwerben und bezahlt an die Bank jenen Betrag, welcher auf dem Besitzbeleg für jenes Grundstück ersichtlich ist.<p>
+  
+<p>Projekt Teilnehmer:<p>
+
+  <ol>
+    <li>Janis Papai</li>
+    <li>Moritz Rettensteiner</li>
+    <li>Lukas Promegger</li>
+  </ol>
+  
+<p>Alle aufgelisteten Personen sind Schüler der 3AHINF in der HTL St.Johann<p>
