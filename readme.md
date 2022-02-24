@@ -17,4 +17,4 @@
     <li>Lukas Promegger</li>
   </ol>
   
-<p>Alle aufgelisteten Personen sind Schüler der 3AHINF in der HTL St.Johann<p>
+<h3>Alle aufgelisteten Personen sind Schüler der 3AHINF in der HTL Saalfelden<h3>
